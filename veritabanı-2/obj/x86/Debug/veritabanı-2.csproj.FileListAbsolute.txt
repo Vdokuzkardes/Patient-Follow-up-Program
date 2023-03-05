@@ -1,0 +1,27 @@
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.exe
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.pdb
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Form1.resources
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Properties.Resources.resources
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.csproj.GenerateResource.Cache
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.exe
+C:\Users\kazimsimsek\Desktop\Kazım ŞİMŞEK - C#\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.pdb
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.exe
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.pdb
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.exe
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.pdb
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Form1.resources
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Properties.Resources.resources
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kazimsimsek\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.exe
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.pdb
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.csprojAssemblyReference.cache
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Properties.Resources.resources
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.csproj.GenerateResource.cache
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.csproj.CoreCompileInputs.cache
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.exe
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı-2.pdb
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\bin\Debug\veritabanı-2.exe.config
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Form2.resources
+C:\Users\MCCALL\Desktop\veritabanı-2\veritabanı-2\obj\x86\Debug\veritabanı_2.Form3.resources

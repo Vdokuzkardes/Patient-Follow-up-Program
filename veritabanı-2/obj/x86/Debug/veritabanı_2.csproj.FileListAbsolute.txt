@@ -1,0 +1,22 @@
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/bin/Debug/veritabanı-2.exe.config
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/bin/Debug/veritabanı-2.exe
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/obj/x86/Debug/veritabanı_2.Form2.resources
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/obj/x86/Debug/veritabanı_2.Properties.Resources.resources
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/obj/x86/Debug/veritabanı_2.csproj.GenerateResource.cache
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/obj/x86/Debug/veritabanı_2.csproj.CoreCompileInputs.cache
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/obj/x86/Debug/veritabanı-2.exe
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/obj/x86/Debug/veritabanı-2.pdb
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/bin/Debug/veritabanı-2.pdb
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/obj/x86/Debug/veritabanı_2.Form1.resources
+C:/Users/MCCALL/Desktop/veritabanı-2/veritabanı-2/obj/x86/Debug/veritabanı_2.csprojAssemblyReference.cache
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/bin/Debug/veritabanı-2.exe.config
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/bin/Debug/veritabanı-2.exe
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/bin/Debug/veritabanı-2.pdb
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/obj/x86/Debug/veritabanı_2.csproj.AssemblyReference.cache
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/obj/x86/Debug/veritabanı_2.Form1.resources
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/obj/x86/Debug/veritabanı_2.Form2.resources
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/obj/x86/Debug/veritabanı_2.Properties.Resources.resources
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/obj/x86/Debug/veritabanı_2.csproj.GenerateResource.cache
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/obj/x86/Debug/veritabanı_2.csproj.CoreCompileInputs.cache
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/obj/x86/Debug/veritabanı-2.exe
+/Users/vd/Downloads/Hasta Takip Programı/veritabanı-2/obj/x86/Debug/veritabanı-2.pdb
